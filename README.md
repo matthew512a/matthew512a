@@ -1,4 +1,4 @@
-# 💫About Me :
+# About Me :
 Hi there 👋
 
 I'm Nguyễn Khắc Kiên, a 4th-year student majoring in Electronics and Telecommunications at VNU University of Engineering and Technology (UET), Hanoi, Vietnam.
